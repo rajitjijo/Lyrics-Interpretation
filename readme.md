@@ -1,0 +1,1 @@
+### This aim of this project is create a text-to-text generative model that can generate song lyrics interpration.
